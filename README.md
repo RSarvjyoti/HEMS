@@ -1,1 +1,1 @@
-# HEMS
+# Hackathon Event Management System
